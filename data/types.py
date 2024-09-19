@@ -10,7 +10,6 @@ class EvolutionUnit(pydantic.BaseModel):
 
 class Population(pydantic.BaseModel):
     size: int
-    age: int
     problem_description: str
     elites: List[EvolutionUnit]
     units: List[EvolutionUnit]
