@@ -2,7 +2,7 @@
 
 ## Try now!
 
-We provide an IPYNB file in 'demo' folder for easily using TAPO in Colab.
+We provide an IPYNB file in 'demo' folder for easily using TAPO.
 
 To run the provided code snippets, you need to supply specific access credentials. Here's a breakdown of what you need:
 
