@@ -20,7 +20,6 @@ To run the provided code snippets, you need to supply specific access credential
    - Replace `'YOUR_API_KEY'` with your actual API key in the `OpenAI` client setup:
      ```python
      from openai import OpenAI
-     
      client = OpenAI(api_key='YOUR_API_KEY')
      ```
 
