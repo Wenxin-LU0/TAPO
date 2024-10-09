@@ -1,4 +1,4 @@
-# Using TAPO demo
+# Using TAPO
 
 ## Try now!
 
